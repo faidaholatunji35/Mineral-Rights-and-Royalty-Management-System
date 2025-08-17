@@ -5,8 +5,8 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
-[contracts.component-recovery]
-path = 'contracts/component-recovery.clar'
+[contracts.community-benefits]
+path = 'contracts/community-benefits.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]
